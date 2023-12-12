@@ -124,8 +124,9 @@ a:focus {
 /* Hero */
 
 #hero {
-  background-image: url(../img/the-town-bg-01.jpg);
+  background-image: url(../img/bulsu.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
   min-height: 375px;
   position: relative;
